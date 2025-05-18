@@ -5,7 +5,7 @@
 ### App Name: Person Scan
 ##### Person Scan is an iOS application built using Swift, SwiftUI, Vision, and AVFoundation that detects and counts people in real-time using the device’s camera.
 
-#### 📱 Application Pages
+#### 📱 Application Pages:
 <img src="https://github.com/eneseken95/PersonScan/blob/main/Screenshots.png" alt="Screenshoots" width="520" height="400" />
 
 #### 🔍 Key Features:
