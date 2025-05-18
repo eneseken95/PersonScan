@@ -15,5 +15,5 @@
 ##### -> 🧊 Clean, modern SwiftUI interface with dynamic updates.
 ##### -> 🛡️ Automatically handles camera permissions.
 
-##### Video source: <a href="https://www.pexels.com">pexels.com</a>
+##### Video Source: <a href="https://www.pexels.com">pexels.com</a>
 This project is licensed under the Apache License 2.0. Copyright © 2025, Enes Eken.
